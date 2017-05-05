@@ -13,7 +13,7 @@ import (
 	"regexp"
 )
 
-const postMessageURL = "/services/hooks/incoming-webhook?token="
+const postMessageURL = "/services/hooks/incoming-webhook?token=yQOj3QNdmSnhYpcrN1bV5O7n"
 
 type slackMessage struct {
 	Channel   string `json:"channel"`
